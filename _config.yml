@@ -1,3 +1,8 @@
-theme: minima
 title: Josh Groves
-description: The personal website of Josh Groves
+email: josh@joshgroves.com
+description: The personal blog of Josh Groves
+theme: minima
+twitter_username: grovesNL
+github_username: grovesNL
+plugins:
+  - jekyll-feed
